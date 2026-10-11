@@ -10,12 +10,8 @@ credentials.json
 # Claude Code 個人設定
 .claude/settings.local.json
 
-# 取得した原文データ(トリップレポート本文は公開・再配布しない)
-data/raw/
-data/cache/
-
-# 抽出結果(原文の引用を含むため公開しない)
-data/extracted/
+# データ一式(原文・投稿ID・引用を含むため公開・再配布しない)
+data/
 
 # Python
 __pycache__/
